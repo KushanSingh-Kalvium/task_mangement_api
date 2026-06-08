@@ -112,13 +112,22 @@ npm run dev
 
 ## Environment Variables
 
-Create a `.env` file inside backend:
+Create a `.env` file inside the backend directory and configure the following variables:
+
+| Variable     | Description                                   |
+| ------------ | --------------------------------------------- |
+| DATABASE_URL | PostgreSQL connection string                  |
+| JWT_SECRET   | Secret key used to sign and verify JWT tokens |
+| PORT         | Backend server port                           |
+
+Example:
 
 ```env
-DATABASE_URL=
-JWT_SECRET=
+DATABASE_URL=postgresql://username:password@localhost:5432/taskmanager
+JWT_SECRET=your_jwt_secret
 PORT=5000
 ```
+
 
 ---
 

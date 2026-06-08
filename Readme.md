@@ -74,19 +74,19 @@ The application provides:
 
 ### Register Page
 
-![Register Page](./screenshots/register.png)
+![Register Page](./screenshots/Register.png)
 
 ### Login Page
 
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/Login.png)
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### Swagger Documentation
 
-![Swagger Documentation](./screenshots/swaggerdocs.png)
+![Swagger Documentation](./screenshots/SwaggerDocs.png)
 
 ---
 
